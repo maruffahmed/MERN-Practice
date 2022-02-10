@@ -1,0 +1,10 @@
+# Ignore artifacts:
+.git
+
+/backend/node_modules
+/frontend/node_modules
+# testing
+/frontend/coverage
+
+# production
+/frontend/build
